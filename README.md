@@ -11,8 +11,11 @@ Cara untuk menjalankan program
     ```bash
      https://github.com/henry204xx/TSP_Solver.git
     ```
-2. Run program pada folder tsp_solver dengan
+2. Compile dan run program dengan
     ```bash
-     cargo run
+     rustc main.rs
+    ```
+    ```bash
+     ./main
     ```
 3. Contoh input matrix dapat dilihat pada file test
